@@ -78,7 +78,7 @@ public class AppController {
         } else if (selectedOpsi.equals("2")) {
             jabatanService.jabatanKaryawan();
         } else if (selectedOpsi.equals("3")) {
-            karyawanService.karyawanToko();
+            karyawanService.multipleKaryawan();
         } else if (selectedOpsi.equals("4")) {
             absenService.absenJbtn();
         } else if (selectedOpsi.equals("5")) {
